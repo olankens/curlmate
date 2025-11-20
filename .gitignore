@@ -1,0 +1,12 @@
+#
+*.png
+*.icns
+!.assets/**/*.png
+!.assets/**/*.icns
+
+#
+.idea/*
+!.idea/markdown.xml
+
+#
+.DS_Store
