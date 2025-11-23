@@ -5,8 +5,4 @@
 !.assets/**/*.icns
 
 #
-.idea/*
-!.idea/markdown.xml
-
-#
 .DS_Store
