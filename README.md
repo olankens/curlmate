@@ -1,12 +1,10 @@
-<hr>
-
-# <samp>OVERVIEW</samp>
+# OVERVIEW
 
 Collection of bash scripts for various system tasks, executable directly via curl. No installation required, just run scripts on-demand for system administration, development setup, security configuration, and utility operations.
 
 <hr>
 
-# <samp>GUIDANCE</samp>
+# GUIDANCE
 
 ### Create ICNS for Tahoe
 
@@ -45,5 +43,3 @@ curl -fsSL https://raw.githubusercontent.com/olankens/curlmate/HEAD/src/commit-l
 ```shell
 curl -fsSL https://raw.githubusercontent.com/olankens/curlmate/HEAD/src/setup-jetbrains-markdown.sh | bash
 ```
-
-<hr>
